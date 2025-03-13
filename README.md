@@ -1,30 +1,12 @@
 # 🧠 Quiz Game
 
-Un simple juego de preguntas y respuestas en la terminal. ¡Pon a prueba tus conocimientos con este quiz interactivo! 📚
+Un simple juego de preguntas y respuestas en la terminal. ¡Pon a prueba tus conocimientos con este quiz interactivo! 
 
 ## 🚀 ¿Cómo funciona?
 
 - El programa te muestra una serie de preguntas de verdadero o falso.
 - Responde cada pregunta escribiendo **True** o **False**.
 - Al final, el juego te dirá tu puntuación total.
-
-### 📸 Vista previa
-
-
-
-## 📦 Instalación
-
-Asegúrate de tener **Python 3.x** instalado. Luego, sigue estos pasos:
-
-```bash
-# Clona el repositorio
-https://github.com/tu-usuario/quiz-game.git
-
-cd quiz-game
-
-# Ejecuta el programa
-python main.py
-```
 
 ## 📋 Estructura del proyecto
 
